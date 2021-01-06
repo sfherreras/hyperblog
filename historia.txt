@@ -3,3 +3,5 @@ Esta es la historia de Sebastian Herrera
 Sebastian tiene 26 años
 
 Mañana nos enfocaremos de su vida laboral
+
+Por ahora sabemos que esta estudiando en PLATZI el curso de GIT
