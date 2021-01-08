@@ -5,3 +5,5 @@ Sebastian tiene 26 años
 Mañana nos enfocaremos de su vida laboral
 
 Por ahora sabemos que esta estudiando en PLATZI el curso de GIT
+
+Y en este momento ha aprendido mucho de GITHUB
